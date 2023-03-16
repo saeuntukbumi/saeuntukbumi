@@ -273,9 +273,9 @@ footer .credit a {
   .navbar .navbar-logo {
     font-size: 4rem;
   }
-  #menu {
+  /* #menu {
     display: inline-block;
-  }
+  } */
   .navbar .navbar-nav {
     position: absolute;
     top: 100%;
